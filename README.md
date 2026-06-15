@@ -21,6 +21,7 @@ Software Developer passionate about building scalable applications and solving c
 
 # 🏆 Achievements & Progress
 
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muhammed-Mufeed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
