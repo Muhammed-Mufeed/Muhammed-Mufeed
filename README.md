@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer passionate about building scalable applications and solving complex problems through technology. With experience in full-stack web development, I enjoy working across different layers of software systems, from user interfaces and backend services to databases and cloud deployment. Continuously learning and exploring software engineering principles, system design, and modern development practices to build reliable and impactful solutions.<br>
+Software Developer passionate about building scalable applications and solving complex problems through technology. With experience in full-stack web development, I enjoy working across different layers of software systems, from user interfaces and backend services to databases and cloud deployment. Continuously learning and exploring software engineering principles, system design, and modern development practices to build reliable and impactful solutions.<br> 
 
 
 # 💻 Tech Stack:
